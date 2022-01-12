@@ -1,3 +1,5 @@
+// Program to insert the element in an existing array
+
 #include<iostream>
 #include<cstdio>
 # define max_size 100
