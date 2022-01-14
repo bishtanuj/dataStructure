@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class twoDArray 
+public class traversingMatrix 
 {
     public static void main(String[] args)
     {
