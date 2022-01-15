@@ -81,7 +81,7 @@ void main()
 {
     int x, choice = 1;
 
-    // Using while loop so that user can use this program his/her choice
+    // Using while loop so that user can use this program according to his/her choice
     while(choice != 5)
     {
         printf("\n*** Operations of queue ***\n");
