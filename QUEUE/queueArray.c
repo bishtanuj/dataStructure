@@ -121,6 +121,14 @@ void main()
                 peek();
                 break;
             }
+                
+            default:
+            {
+                if(choice > 5)
+                {
+                    printf("Enter right choice !!");
+                }
+            }                
         }
     }    
 }
