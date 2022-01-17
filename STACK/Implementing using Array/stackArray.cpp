@@ -1,4 +1,4 @@
-// Program to implement linked list using array
+// Program to implement stack using array
 
 #include<iostream>
 #define maxSize 100
