@@ -106,16 +106,16 @@ int main()
 
     while(choice != 5)
     {
-        printf("\n*** Operations of queue ***\n");
-        printf("1.  Enqueue\n");
-        printf("2.  Dequeue\n");
-        printf("3.  Display\n");
-        printf("4.  Peek\n");
-        printf("5.  Exit\n");
+        cout << "\n*** OPERATIONS OF QUEUE ***" << endl;
+        cout << "1.  ENQUEUE" << endl;
+        cout << "2.  DEQUEUE" << endl;
+        cout << "3.  PEEK" << endl;
+        cout << "4.  DISPLAY" << endl;
+        cout << "5.  EXIT" << endl;;
 
         // Scanning the choice
-        printf("Enter your choice: ");
-        scanf("%d",&choice);
+        cout << "Enter your choice: ";
+        cin >> choice;
 
         switch(choice)
         {
