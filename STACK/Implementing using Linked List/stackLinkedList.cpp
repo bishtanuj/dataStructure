@@ -1,4 +1,4 @@
-// Program to implement circular queue using Linked List
+// Program to implement stack using Linked List
 
 #include<iostream>
 
