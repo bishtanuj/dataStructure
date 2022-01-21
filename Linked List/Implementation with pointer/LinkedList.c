@@ -1,3 +1,5 @@
+// Program to implement Linked List using pointers
+
 #include<stdio.h>
 #include<malloc.h>
 
@@ -8,6 +10,7 @@ struct node
 };
 struct node *head = 0;
 
+// Function to create a Linked List
 void createLinkedList(int item)
 {
     struct node *newnode,*temp;
@@ -33,6 +36,7 @@ void createLinkedList(int item)
     
 }
 
+// Function to insert node at first position
 void insertNodeAtFirst(int item)
 {
     struct node *newnode,*temp;
@@ -54,6 +58,7 @@ void insertNodeAtFirst(int item)
     }
 }
 
+// Function to insert node at last position
 void insertNodeAtLast(int item)
 {
     struct node *newnode,*temp;
@@ -79,6 +84,7 @@ void insertNodeAtLast(int item)
     }
 }
 
+// Function to insert node after the key inserted by user
 void insertNodeAfterKey(int key, int item)
 {
     struct node *newnode,*temp;
@@ -99,6 +105,7 @@ void insertNodeAfterKey(int key, int item)
     }
 }
 
+// Function to delete the first node
 void deleteAtFirst()
 {
     struct node *temp;
@@ -115,6 +122,7 @@ void deleteAtFirst()
     }
 }
 
+// Function to delete the last node
 void deleteAtLast()
 {
     struct node *temp,*temp_1;
@@ -140,6 +148,7 @@ void deleteAtLast()
     }
 }
 
+// Function to delete the key entered by user
 void deleteNodeAtKey(int key)
 {
     struct node *temp,*previous;
@@ -171,13 +180,9 @@ void deleteNodeAtKey(int key)
             temp = temp -> next;
         }
     }
-
-    if(temp == NULL)
-    {
-        printf("\n%d is not found in Linked List !!\n",key);
-    }
 }
 
+// Function to display the linked list
 void display()
 {
     struct node *temp;
@@ -217,6 +222,7 @@ void main()
         printf("8.  Display the linked list\n");
         printf("9.  Exit\n");
 
+        // Scanning the choice from the user
         printf("\nEnter your choice: ");
         scanf("%d",&choice);
 
@@ -224,60 +230,80 @@ void main()
         {
             case 1:
             {
+                // Scannig the element to enter in Linked List
                 printf("Enter the value: ");
                 scanf("%d",&item);
+
+                // Calling the createLinkedList function
                 createLinkedList(item);
                 break;
             }
 
             case 2:
             {
+                // Scannig the element to enter in Linked List
                 printf("Enter the value: ");
                 scanf("%d",&item);
+
+                // Calling the insertNodeAtFirst function
                 insertNodeAtFirst(item);
                 break;
             }
 
             case 3:
             {
+                // Scannig the element to enter in Linked List
                 printf("Enter the value: ");
                 scanf("%d",&item);
+
+                // Calling the insertNodeAtLast function
                 insertNodeAtLast(item);
                 break;
             }
 
             case 4:
             {
+                // Scannig the element to enter in Linked List
                 printf("Enter the value: ");
                 scanf("%d",&item);
+
+                // Scanning the key element after which the item would insert
                 printf("Enter the element after which you want to add the node: ");
                 scanf("%d",&key);
+
+                // Calling insertNodeAfterKey function
                 insertNodeAfterKey(key,item);
                 break;
             }
 
             case 5:
             {
+                // Calling deleteAtFirst function
                 deleteAtFirst();
                 break;
             }
 
             case 6:
             {
+                // Calling deleteAtLast function
                 deleteAtLast();
                 break;
             }
 
             case 7:
             {
+                // Scanning the element to delete
                 printf("Enter the element you want to delete: ");
                 scanf("%d",&key);
+
+                // Calling deleteNodeAtKey function
                 deleteNodeAtKey(key);
                 break;
             }
 
             case 8:
             {
+                // Calling display function
                 display();
                 break;
             }
