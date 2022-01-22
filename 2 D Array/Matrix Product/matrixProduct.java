@@ -9,7 +9,7 @@ public class matrixProduct
         try(Scanner sc = new Scanner(System.in))
         {
             // Scanning the size of the matrix
-            System.out.println("Enter the size of the matrix: ");
+            System.out.print("Enter the size of the matrix: ");
             int size = sc.nextInt();
 
             int matrixOne[][] = new int[size][size];
