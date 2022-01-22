@@ -1,4 +1,4 @@
-// Program to implement Linked List using pointer
+// Program to implement Linked List
 
 #include<iostream>
 
