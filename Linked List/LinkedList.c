@@ -1,4 +1,4 @@
-// Program to implement Linked List using pointers
+// Program to implement Linked List 
 
 #include<stdio.h>
 #include<malloc.h>
