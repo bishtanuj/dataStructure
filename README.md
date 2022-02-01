@@ -56,7 +56,7 @@
 
 ### Static Data Structure:
 <p>
-  It is a data structure having fixed maximum size as the size is allocated to it during compile time the.
+  It is a data structure having fixed maximum size as the size is allocated to it during compile time.
   <br>
   For example: Arrays
 </p>
