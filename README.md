@@ -48,8 +48,22 @@
   </ul>
 </p>
 
-<h1><strong>Data Structures can also be classified as:</strong></h1>
+## Data Structures can also be classified as:
 <ol>
   <li>Static Data Structure</li>
   <li>Dynamic Data Structure</li>
 </ol>
+
+### Static Data Structure:
+<p>
+  It is a data structure having fixed maximum size as the size is allocated to it during compile time the.
+  <br>
+  For example: Arrays
+</p>
+
+### Dynamic Data Structure:
+<p>
+  It is a data structure having flexibilty to grow or shrink in size as the size is allocated to it during runtime.
+  <br>
+  For example: Linked List, Stack, Queue, Trees.
+</p>
