@@ -47,3 +47,9 @@
     </li>
   </ul>
 </p>
+
+<h1><strong>Data Structures can also be classified as:</strong></h1>
+<ol>
+  <li>Static Data Structure</li>
+  <li>Dynamic Data Structure</li>
+</ol>
