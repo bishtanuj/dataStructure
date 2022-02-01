@@ -19,3 +19,16 @@
     <li>Linear Data Structure</li>
     <li>Non - Linear Data Structure</li>
 </ul>
+
+#### Linear Data Structre
+<p>
+  <ul>
+    <li> 
+      It is a type of data structure where the arrangement of data is such that the each element is directly linked to its previous and next elements.
+      For example: Array, Linked List, Queue, Stack.
+    </li>
+    <li>
+      All the elements in linear data structure can be traversed in single run.
+    </li>
+  </ul>
+</p>
