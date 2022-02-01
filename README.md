@@ -24,7 +24,7 @@
 <p>
   <ul>
     <li> 
-      It is a type of data structure where the arrangement of data is such that the each element is directly linked to its previous and next elements.
+      It is a type of data structure where the arrangement of data is such that the each element is directly linked to its previous and next elements.<br>
       For example: Array, Linked List, Queue, Stack.
     </li>
     <li>
