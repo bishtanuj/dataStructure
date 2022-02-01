@@ -77,11 +77,12 @@ As applications are getting complexed and amount of data is increasing day by da
 To handle very large amount of data, high speed processing is required, but as data is growing day by day to the billions of files per entity, processor may fail to deal with that much amount of data.
 <br>
 <br>
-***Data Search***
+***Data Search:***
 <br>
 Consider a student record in college, if one wants to search for the student whose name is in 1116 position, than the application needs to traverse 1116 items every time to search for a particular item, thus results in slowing down the search process.
 <br>
 <br>
-***Multiple Request***
+***Multiple Request:***
 <br>
 If thousands of users are searching the data simultaneously on a web server, then there may be a chance that a large server get failed during the process. So, in order to solve this hassle, data structures are used. Data is organized to form a data structure in such a way that all items are not required to be searched and required data can be searched instantly.
+
