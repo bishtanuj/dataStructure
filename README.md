@@ -87,4 +87,9 @@ Consider a student record in college, if one wants to search for the student who
 If thousands of users are searching the data simultaneously on a web server, then there may be a chance that a large server get failed during the process. So, in order to solve this hassle, data structures are used. Data is organized to form a data structure in such a way that all items are not required to be searched and required data can be searched instantly.
 
 ## Advantages of Data Structure
-* Data Structures allow storing the information.
+* It allows storing of information.
+* Appropriate choice of **abstract data type** makes the program more efficient.
+* Data Structures are necessary for designing efficient algorithms.
+* It provides reusability and abstraction.
+* Using appropriate data structure, can help programmers save a good amount of time while performing operations such as storage, retrieval or processing of data.
+* Manipulation of large amounts of data is easier.
