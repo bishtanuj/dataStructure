@@ -86,3 +86,5 @@ Consider a student record in college, if one wants to search for the student who
 <br>
 If thousands of users are searching the data simultaneously on a web server, then there may be a chance that a large server get failed during the process. So, in order to solve this hassle, data structures are used. Data is organized to form a data structure in such a way that all items are not required to be searched and required data can be searched instantly.
 
+## Advantages of Data Structure
+* Data Structures allow storing the information.
