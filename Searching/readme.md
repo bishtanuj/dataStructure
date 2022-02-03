@@ -24,8 +24,8 @@ In binary search, an item is searched by dividing the list in two halves, and th
 Binary Search works efficiently on sorted list. Hence, to search an element in list using this technique, one must ensure that the list is sorted.
 
 <br>
-***Algorithm:***<br>
-binary_search(array[],size,low,mid,high,key)<br>
+***Algorithm:*** <br>
+binary_search(array[],size,low,mid,high,key) <br>
 **Step 1:** Set low = 0 and high = size <br>
 **Step 2:** While low <= high then go to **Step ** <br>
 **Step 3:** If **Step 2** becomes false then go to **Step 8** <br>
@@ -34,5 +34,5 @@ binary_search(array[],size,low,mid,high,key)<br>
 **Step 6:** If **Step 5** becomes false then check if key > array[mid] and set low = mid + 1 and then moves to **Step 2** <br>
 **Step 7:** If **Step 6** becomes false then Set high = mid - 1 and then moves to **Step 2** <br>
 **Step 8:** Print Element not found in array <br>
-**Step 9:** Print Element found at index mid in array
+**Step 9:** Print Element found at index mid in array <br>
 **Step 10:** EXIT
