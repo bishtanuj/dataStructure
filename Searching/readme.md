@@ -3,7 +3,6 @@
 
 ## In data structures we deals with the following searching techniques:
 ### _Linear Search_
-<br>
 In linear search, a sequential search is made over all items one by one. Every item is checked and if a match is found than that particular item is returned, otherwise the search      continues till the end of the data collection.
 <br>
 <img align="center" alt="Linear_Search" width="500px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
@@ -18,3 +17,5 @@ linear_search(Array[], key) <br>
 **Step 6:** Print Element is found at index i in Array and go to **Step 8** <br>
 **Step 7:** Print Element not found in Array <br>
 **Step 8:** EXIT
+
+### _Binary Search_
