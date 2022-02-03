@@ -7,7 +7,7 @@
 In linear search, a sequential search is made over all items one by one. Every item is checked and if a match is found than that particular item is returned, otherwise the search      continues till the end of the data collection.
 <br>
 <img align="left" alt="Linear_Search" width="500px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
-
+<br>
 ***Algorithm:*** <br>
 linear_search(Array[], key) <br>
 **Step 1:** Set i to 0 <br>
