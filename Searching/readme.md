@@ -2,13 +2,13 @@
 > ***Searching is the process of finding the desired information from the set of elements in the memory. These sets of items are in various forms, such as an array, queue, tree etc.***
 
 ## In data structures we deals with the following searching techniques:
-***Linear Search***
+###_Linear Search_
 <br>
 In linear search, a sequential search is made over all items one by one. Every item is checked and if a match is found than that particular item is returned, otherwise the search      continues till the end of the data collection.
 <br>
-<img align="center" alt="Linear_Search" width="500px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
+<img align="left" alt="Linear_Search" width="500px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
 
-**Algorithm:** <br>
+***Algorithm:*** <br>
 linear_search(Array[], key) <br>
 **Step 1:** Set i to 0 <br>
 **Step 2:** If i > size then go to **Step 7** <br>
