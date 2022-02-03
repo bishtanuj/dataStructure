@@ -3,6 +3,8 @@
 
 ## In data structures we deals with the following searching techniques:
 ***Linear Search***
-In linear search, a sequential search is made over all items one by one. Every item is checked and if a match is found than that particular item is returned, otherwise the search continues till the end of the data collection.
+<p>
+  In linear search, a sequential search is made over all items one by one. Every item is checked and if a match is found than that particular item is returned, otherwise the search      continues till the end of the data collection.
+</p>
 <br>
-<img align="centre" alt="Linear_Search" width="1000px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
+<img align="centre" alt="Linear_Search" width="800px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
