@@ -23,7 +23,7 @@ In binary search, an item is searched by dividing the list in two halves, and th
 <br>
 Binary Search works efficiently on sorted list. Hence, to search an element in list using this technique, one must ensure that the list is sorted.
 
-<br>
+
 ***Algorithm:*** <br>
 binary_search(array[],size,low,mid,high,key) <br>
 **Step 1:** Set low = 0 and high = size <br>
