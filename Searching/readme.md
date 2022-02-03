@@ -19,3 +19,6 @@ linear_search(Array[], key) <br>
 **Step 8:** EXIT
 
 ### _Binary Search_
+In binary search, an item is searched by dividing the list in two halves, and then the item is compared with middle element of the list. If the match is found then the location of the middle element is returned. Otherwise, search continues on the either halves of the list depending upon the result produced through the match.
+<br>
+Binary Search works efficiently on sorted list. Hence, to search an element in list using this technique, one must ensure that the list is sorted.
