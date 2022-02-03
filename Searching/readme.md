@@ -27,7 +27,7 @@ Binary Search works efficiently on sorted list. Hence, to search an element in l
 ***Algorithm:*** <br>
 binary_search(array[],size,low,mid,high,key) <br>
 **Step 1:** Set low = 0 and high = size <br>
-**Step 2:** While low <= high then go to **Step ** <br>
+**Step 2:** While low <= high then go to **Step 4** <br>
 **Step 3:** If **Step 2** becomes false then go to **Step 8** <br>
 **Step 4:** Set mid = (low + high) / 2 then go to **Step 5** <br>
 **Step 5:** If array[mid] == key then return mid and go to **Step 9** <br>
