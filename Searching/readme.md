@@ -9,15 +9,15 @@ In linear search, a sequential search is made over all items one by one. Every i
 
 ***Algorithm:*** <br>
 ```md
-linear_search(Array[], key) <br>
-**Step 1:** Set i to 0 <br>
-**Step 2:** If i > size then go to **Step 7** <br>
-**Step 3:** If Array[i] = x then, go to step 6 <br>
-**Step 4:** Set i to i + 1 <br>
-**Step 5:** Go to **Step 2** <br>
-**Step 6:** Print Element is found at index i in Array and go to **Step 8** <br>
-**Step 7:** Print Element not found in Array <br>
-**Step 8:** EXIT
+linear_search(Array[], key) 
+Step 1: Set i to 0
+Step 2: If i > size then go to Step 7
+Step 3: If Array[i] = x then, go to Step 6 
+Step 4: Set i to i + 1 
+Step 5: Go to Step 2
+Step 6: Print Element is found at index i in Array and go to Step 8
+Step 7: Print Element not found in Array 
+Step 8: EXIT
 ```
 
 ### _Binary Search_
