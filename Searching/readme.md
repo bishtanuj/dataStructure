@@ -27,14 +27,17 @@ Binary Search works efficiently on sorted list. Hence, to search an element in l
 
 
 ***Algorithm:*** <br>
-binary_search(array[],size,low,mid,high,key) <br>
-**Step 1:** Set low = 0 and high = size <br>
-**Step 2:** While low <= high then go to **Step 4** <br>
-**Step 3:** If **Step 2** becomes false then go to **Step 8** <br>
-**Step 4:** Set mid = (low + high) / 2 then go to **Step 5** <br>
-**Step 5:** If array[mid] == key then return mid and go to **Step 9** <br>
-**Step 6:** If **Step 5** becomes false then, check if key > array[mid] and set low = mid + 1 and then, moves to **Step 2** <br>
-**Step 7:** If **Step 6** becomes false then, set high = mid - 1 and then, moves to **Step 2** <br>
-**Step 8:** Print Element not found in array <br>
-**Step 9:** Print Element found at index mid in array <br>
-**Step 10:** EXIT
+```md
+binary_search(array[],size,low,mid,high,key) 
+Step 1: Set low = 0 and high = size 
+Step 2: While low <= high then go to Step 4
+Step 3: If Step 2 becomes false then go to Step 8
+Step 4: Set mid = (low + high) / 2 then go to Step 5
+Step 5: If array[mid] == key then return mid and go to Step 9
+Step 6: If Step 5 becomes false then, check if key > array[mid] and set low = mid + 1 and then, moves to Step 2
+Step 7: If Step 6 becomes false then, set high = mid - 1 and then, moves to Step 2
+Step 8: Print Element not found in array 
+Step 9: Print Element found at index mid in array 
+Step 10: EXIT
+```
+
