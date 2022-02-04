@@ -8,6 +8,7 @@ In linear search, a sequential search is made over all items one by one. Every i
 <img align="center" alt="Linear_Search" width="500px" src = "https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif"/>
 
 ***Algorithm:*** <br>
+'''md
 linear_search(Array[], key) <br>
 **Step 1:** Set i to 0 <br>
 **Step 2:** If i > size then go to **Step 7** <br>
@@ -17,6 +18,7 @@ linear_search(Array[], key) <br>
 **Step 6:** Print Element is found at index i in Array and go to **Step 8** <br>
 **Step 7:** Print Element not found in Array <br>
 **Step 8:** EXIT
+'''
 
 ### _Binary Search_
 In binary search, an item is searched by dividing the list in two halves, and then the item is compared with middle element of the list. If the match is found then the location of the middle element is returned. Otherwise, search continues on the either halves of the list depending upon the result produced through the match.
