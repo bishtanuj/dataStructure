@@ -18,3 +18,13 @@ An algoithm should be effective as each step of algorithm affects the whole proc
 An algorithm shoud be feasible with the available resources.
 ### _Language Independent_
 An algorithm should be independent of programming language as it is capable of solving problem.
+
+## Advantages of Algorithm
+### _Easy Communication_
+The algorithm is written in human language (e.g. English), hence, becomes easy to understand it as a solution of particular problem.
+### _Easy Debugging_
+A well designed algorithm facilitates easy debugging to detect the logical errors that occurred inside the program.
+### _Easy and Efficient Coding_
+An algorithm is nothing but a blueprint of a program that helps develop a program.
+### _Independent of Programming Language_
+Since an algorithm is language independent, therefore can be programmed in any high level language.
