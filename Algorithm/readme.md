@@ -17,3 +17,15 @@ informal description by flowchart or pseudocode.***
 **_Easy Debugging:_** A well designed algorithm facilitates easy debugging to detect the logical errors that occurred inside the program. <br>
 **_Easy and Efficient Coding:_** An algorithm is nothing but a blueprint of a program that helps develop a program. <br>
 **_Independent of Programming Language:_** Since an algorithm is language independent, therefore can be programmed in any high level language. <br>
+
+## Disadvantages of Algorithm
+* Developing algorithms for complex problems would be time-consuming and difficult to understand.
+* It is a challenging task to understand complex logic through algorithms.
+
+## Need of Algorithm
+1. To understand the basic idea of problem and find a right approach to solve it.
+2. To improve the efficiency of existing techniques.
+3. To understand the flow of the problem.
+4. It is the best method of description without describing the implementation detail.
+5. The Algorithm gives a clear description of requirements and goal of the problem to the designer.
+6. It can be used to analyze the space and time complexity of the problems concerning inputs without implementing and running, that reduces the cost of design.
