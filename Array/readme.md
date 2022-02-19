@@ -1,2 +1,3 @@
 # Array
-> ***The simplest form of array is <u> One Dimensional Array </u>
+> ***The simplest form of array is "One Dimensional Array".***
+> ***Array is a finite ordered set of homogeneous elements.***
