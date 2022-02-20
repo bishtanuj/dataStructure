@@ -3,6 +3,9 @@
 <br>
 
 A ***search algorithm*** is an algorithm that accepts an argument a and tries to find a record whose key is a. The algorithm may return the entire record or, more commonly, it may return a pointer to that record. It is possible that the search for a particular argument in a table is unsuccessful; i.e., there is no record in that table with the argument as its key. In such a case the algorithm may return a special “null record” or a null pointer. Very often, if a search is unsuccessful, it may be desirable to add a new record with the argument as its key. An algorithm that does this is called a ***search and insertion*** algorithm. A successful search is often called a ***retrieval.***
+<br>
+
+> A table of record in which a key is used for retrieval is often called a **search table** or a **dictionary.**
 
 ## In data structures we deals with the following searching techniques:
 ### _Linear Search_
