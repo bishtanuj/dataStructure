@@ -8,3 +8,4 @@
 * ***"Homogeneous" means that all the elements in the array must be of the same type.***
 
 The two basic operations that access an array are **extraction** and **storing.**
+The smallest element of an array's index is called its **lower bound** and the highest element is called its **upper bound.**
