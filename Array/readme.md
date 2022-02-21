@@ -9,6 +9,6 @@
 
 The two basic operations that access an array are **extraction** and **storing.** <br>
 The smallest element of an array's index is called its **lower bound** and the highest element is called its **upper bound.** <br>
-If lower is the lower bound of an array and upper is the upper bound, the number of elements in the array is called the **range.**
-`:range = upper - lower + 1:`
+If lower is the lower bound of an array and upper is the upper bound, the number of elements in the array is called the **range.** <br>
+`range = upper - lower + 1`
 
