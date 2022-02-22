@@ -10,7 +10,7 @@ int main()
     int max;
     
     // Scanning the size of the array
-    printf("ENter the size of the array: ");
+    printf("Enter the size of the array: ");
     scanf("%d",&size);
 
     // Scanning the elements of array
