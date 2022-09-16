@@ -1,21 +1,15 @@
-# Scanning the size of row of the matrix
-rowSize = int(input("Enter the number of rows: "))
+# scanning the number of rows and column
+row_num = int(input("Enter the number of rows: "))
+col_num = int(input("Enter the number of columns: "))
 
-# Scanning the size of row of the matrix
-columnSize = int(input("Enter the number of columns: "))
+# defining the 2-D array with initial value is 0
+two_d_array = [[0 for col in range(col_num)] for row in range(row_num)]
 
-# Scanning the matrix
-matrix = []
-for i in range(rowSize):
-    a = []
-    for j in range(columnSize):
-        a.append(int(input(f"Element [{i}][{j}]: ")))
-    matrix.append(a)
+# scanning the elements of the array
+for row in range(row_num):
+    for col in range(col_num):
+        two_d_array[row][col] = int(input(f"Element[{row}][{col}]: "))
 
-# Printing the matrix
-print()
-print("Matrix: ")
-for i in range(rowSize):
-    for j in range(columnSize):
-        print(matrix[i][j], end = " ")
-    print()
+# printing the 2-D array
+print("2-D Array:")
+print(two_d_array)
