@@ -43,7 +43,7 @@ int main()
     temp = size;
 
     // Increment of size of array
-    size = size + 1;
+    size += 1;
 
     // Makes the location index empty
     while(temp >= location)
