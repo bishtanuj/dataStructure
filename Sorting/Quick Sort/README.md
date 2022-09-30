@@ -21,7 +21,7 @@ Partition(array, p, r)
   swap(array[i+1] <--> array[r]
   return i+1
 }
-
+```
 
 ```md
 Quicksort(array, p, r)
