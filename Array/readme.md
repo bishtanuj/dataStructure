@@ -17,5 +17,5 @@ If lower is the lower bound of an array and upper is the upper bound, the number
 2. [Inserting Element in Existing Array](https://github.com/bishtanuj/dataStructure/tree/main/Array/Inserting%20Element%20in%20Existing%20Array)
 3. [Deleting Element from Array](https://github.com/bishtanuj/dataStructure/tree/main/Array/Deleting%20Element%20from%20Array)
 4. [Largest Element in Array](https://github.com/bishtanuj/dataStructure/tree/main/Array/Largest%20Element%20in%20Array)
-5. [Smallest Element in Array](/tree/main/Array/Smallest%20Element%20In%20Array)
+5. [Smallest Element in Array](/Array/Smallest%20Element%20In%20Array)
 6. [Merging two Arrays]()
