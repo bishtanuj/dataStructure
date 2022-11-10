@@ -19,4 +19,4 @@ If lower is the lower bound of an array and upper is the upper bound, the number
 4. [Largest Element in Array](/Array/Largest%20Element%20in%20Array)
 5. [Smallest Element in Array](/Array/Smallest%20Element%20In%20Array)
 6. [Merging two Arrays](/Array/Merging%20Array)
-7. [Sum Of Elements](/Array/Sum%20of%20Elements)
+7. [Sum of Elements](/Array/Sum%20of%20Elements)
