@@ -94,4 +94,4 @@ If thousands of users are searching the data simultaneously on a web server, the
 * Using appropriate data structure, can help programmers save a good amount of time while performing operations such as storage, retrieval or processing of data.
 * Manipulation of large amounts of data is easier.
 
-# :help: Support
+# :pray: Support
