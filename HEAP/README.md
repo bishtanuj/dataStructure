@@ -7,3 +7,4 @@ Heap data structure is a complete binary tree that satisfies the heap property s
 Some of the operations on heap are described below:
 
 ### Heapify
+Heapify is the process of creating a heap data structure from a binary tree. It is used to create a min-heap or a max-heap.
