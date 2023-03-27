@@ -14,3 +14,11 @@ if __name__ == '__main__':
 
     # Printing the average of elements
     print(f"Average of elements: {average_of_elements}")
+    
+    
+```
+OUTPUT:
+Enter the total number of elements: 5
+Enter the 5 elements: 3 2 6 9 8
+Average of elements: 5
+```
