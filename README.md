@@ -1,3 +1,5 @@
+[![Licence](https://img.shields.io/github/license/bishtanuj/dataStructure?style=for-the-badge)](./LICENSE)
+
 # Data Structure
 
 > ***As name suggests, it is a way of organizing and storing data in memory in such manner that we can perform operations on the stored data more efficiently.***
