@@ -1,4 +1,5 @@
 [![Licence](https://img.shields.io/github/license/bishtanuj/dataStructure?style=for-the-badge)](./LICENSE) &emsp;
+[![Licence](https://img.shields.io/github/license/bishtanuj/dataStructure?style=for-the-badge)](./LICENSE) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/dataStructure?style=for-the-badge)](./FORKS)
 
 # Data Structure
