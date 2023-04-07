@@ -1,6 +1,7 @@
 [![Licence](https://img.shields.io/github/license/bishtanuj/dataStructure?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/dataStructure?style=for-the-badge)](./ISSUES) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/dataStructure?style=for-the-badge)](./FORKS) &emsp;
+[![Licence](https://img.shields.io/github/license/bishtanuj/dataStructure?style=for-the-badge)](./LICENSE)
 
 # Data Structure
 
