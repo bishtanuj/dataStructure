@@ -19,3 +19,9 @@ if __name__ == '__main__':
     elements_array = list(map(int, input(f"Enter {number_of_elements} elements: ").split()))[:number_of_elements]
     print(f"Reverse Array: {reverse_array(elements_array)}")
 
+```
+OUTPUT:
+Enter the number of elements in an array: 5
+Enter 5 elements: 9 8 7 2 1
+Reverse Array: [1, 2, 7, 8, 9]
+```
