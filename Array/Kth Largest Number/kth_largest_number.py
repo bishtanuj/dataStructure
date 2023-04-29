@@ -13,7 +13,7 @@ if __name__ == '__main__':
     array = list(map(int, input(f"Enter {number_of_elements} elements: ").split()))[:number_of_elements]
     K = int(input("Enter the value of K: "))
     result = find_kth_largest(array, K)
-    print(f"{K}th largest element: {result}")
+    print(f"Result: {result}")
 
 
     
