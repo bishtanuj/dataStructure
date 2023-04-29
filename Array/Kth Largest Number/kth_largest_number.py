@@ -15,3 +15,12 @@ if __name__ == '__main__':
     result = find_kth_largest(array, K)
     print(f"{K}th largest element: {result}")
 
+
+    
+```
+    OUTPUT:
+    Enter the number of elements: 6
+    Enter 6 elements: 3 2 1 5 6 4
+    Enter the value of K: 2
+    2th largest element: 5
+```
