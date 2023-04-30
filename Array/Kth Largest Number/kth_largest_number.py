@@ -23,4 +23,10 @@ if __name__ == '__main__':
     Enter 6 elements: 3 2 1 5 6 4
     Enter the value of K: 2
     Result: 5
+        
+    OUTPUT 2:
+    Enter the number of elements: 5 
+    Enter 5 elements: 1 2 8 7 9
+    Enter the value of K: 5
+    Result: 1
 ```
