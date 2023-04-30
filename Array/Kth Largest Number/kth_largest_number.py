@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     
 ```
-    OUTPUT:
+    OUTPUT 1:
     Enter the number of elements: 6
     Enter 6 elements: 3 2 1 5 6 4
     Enter the value of K: 2
