@@ -22,4 +22,8 @@ if __name__ == '__main__':
     
     
 ```
+OUTPUT:
+Enter the number of elements of an array: 3
+Enter 3 elements: 1 2 3
+Permutations of an array: [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]]
 ```
