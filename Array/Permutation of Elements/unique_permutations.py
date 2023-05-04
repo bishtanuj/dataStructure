@@ -26,5 +26,7 @@ if __name__ == '__main__':
 
 ```
 OUTPUT:
-
+Enter the number of elements of an array: 3
+Enter 3 elements: 1 1 2
+Unique permutations of an array: [[1, 1, 2], [1, 2, 1], [2, 1, 1]]
 ```
