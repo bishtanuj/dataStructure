@@ -17,3 +17,9 @@ if __name__ == '__main__':
     print("Array 1: ", nums1)
     print("Array 2: ", nums2)
     print(f"Merged Array: {merge_array(nums1, nums2)}")
+    
+    
+    
+```
+OUTPUT:
+```
