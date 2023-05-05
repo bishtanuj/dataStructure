@@ -22,4 +22,11 @@ if __name__ == '__main__':
     
 ```
 OUTPUT:
+Enter the number of elements of array 1: 3
+Enter the 3 elements: 1 2 3
+Enter the number of elements of array 2: 3
+Enter the 3 elements: 4 5 6
+Array 1:  [1, 2, 3]
+Array 2:  [4, 5, 6]
+Merged Array: [1, 2, 3, 4, 5, 6]
 ```
