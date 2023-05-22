@@ -103,4 +103,4 @@ If thousands of users are searching the data simultaneously on a web server, the
 # :pray: Support
 This repository needs a :star: from you. Don't forget to leave a :star:.
 
-![NEXT](/Asymptotic Analysis/readme.md)
+![NEXT](main/Asymptotic%20Analysis/readme.md)
