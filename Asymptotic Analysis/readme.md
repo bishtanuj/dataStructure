@@ -7,4 +7,4 @@
   large data set.
 </p>
 
-:point_right:![Next - Searching](/Searching)
+:point_right: &emsp; ![Next - Searching](/Searching)
