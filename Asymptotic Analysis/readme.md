@@ -7,4 +7,4 @@
   large data set.
 </p>
 
-![Next - Searching](/Searching)
+:point_right:![Next - Searching](/Searching)
