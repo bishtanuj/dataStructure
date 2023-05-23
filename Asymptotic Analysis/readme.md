@@ -7,4 +7,4 @@
   large data set.
 </p>
 
-:point_left: &emsp; ![Previous - Asymptotic Analysis]()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:point_right: &emsp; ![Next - Searching](/Searching)
+:point_right: &emsp; ![Next - Searching](/Searching)
