@@ -21,3 +21,4 @@ If lower is the lower bound of an array and upper is the upper bound, the number
 6. [Smallest Element in Array](/Array/Smallest%20Element%20In%20Array)
 7. [Merging two Arrays](/Array/Merging%20Array)
 8. [Sum of Elements](/Array/Sum%20of%20Elements)
+9. [Array Inpace Reverse]()
