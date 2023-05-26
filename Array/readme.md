@@ -22,4 +22,4 @@ If lower is the lower bound of an array and upper is the upper bound, the number
 7. [Merging two Arrays](/Array/Merging%20Array)
 8. [Sum of Elements](/Array/Sum%20of%20Elements)
 9. [Array Inpace Reverse](/Array/Array%20Inplace%20Reverse/)
-10. [Single Element in Array](/Array/)
+10. [Single Element in Array](/Array/Single%20Element%20in%20Array/)
