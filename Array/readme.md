@@ -25,3 +25,4 @@ If lower is the lower bound of an array and upper is the upper bound, the number
 10. [Single Element in Array](/Array/Single%20Element%20in%20Array/)
 11. [Product of Elements](/Array/Product%20of%20Elements/)
 12. [Permutation of Elements](/Array/Permutation%20of%20Elements/)
+13. [Kth Largest Number]()
