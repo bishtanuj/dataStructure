@@ -4,6 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png)](https://github.com/bishtanuj/)
 
 It's great to see you here :partying_face:
+Follow the contribution guildelines to contribute in this repository:
 
 - Take a look at exisiting [issues](https://github.com/bishtanuj/dataStructure/issues) or [create a new issue](https://github.com/bishtanuj/dataStructure/issues/new/choose)!
 - [Fork the repository](https://github.com/bishtanuj/dataStructure/fork). Then, create a branch for any issue that you are working on . Finally, commit your work.
