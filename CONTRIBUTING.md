@@ -10,5 +10,5 @@ ___
 - __*Take a look at exisiting [issues](https://github.com/bishtanuj/dataStructure/issues) or [create a new issue](https://github.com/bishtanuj/dataStructure/issues/new/choose)!*__
 - __*[Fork the repository](https://github.com/bishtanuj/dataStructure/fork). Then, create a branch for any issue that you are working on. Finally, commit your work.*__
 - __*Create a [pull request](https://github.com/bishtanuj/dataStructure/compare), which will be promptly reviewed and given suggestions for improvements by the community.*__
-- Add screenshots or screen captures to your pull request to help us understand the effects of the change proposed in your PR.
+- __*Add screenshots or screen captures to your pull request to help us understand the effects of the change proposed in your PR.*__
 ___
