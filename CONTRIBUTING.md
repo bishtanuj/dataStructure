@@ -1,7 +1,7 @@
 ## How to contribute?
 
 [![PR WELCOME](https://img.shields.io/badge/PRs-welcome-lightgreen.svg?style=flat-square)](https://github.com/bishtanuj/dataStructure/pulls)
-[![Open Source Love](https://badges.frapsoft.com/os/v6/open-source.png)](https://github.com/bishtanuj/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png)](https://github.com/bishtanuj/)
 
 __*It's great to see you here :partying_face:*__
 
