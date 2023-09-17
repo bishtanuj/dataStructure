@@ -1,5 +1,5 @@
-# Array
-> ***The simplest form of array is "One Dimensional Array".***
+# _Array_
+> _*The simplest form of array is "One Dimensional Array".*_
 
 <br><br>
 ***Array is a finite ordered set of homogeneous elements.***
