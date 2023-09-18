@@ -1,5 +1,5 @@
 # Asymptotic Notation
-> ***The word Asymptotic means approaching a value or curve arbitrarily closely (i.e., as some sort of limit is taken).***
+> _**The word Asymptotic means approaching a value or curve arbitrarily closely (i.e., as some sort of limit is taken).**_
 
 ## Asymptotic Analysis
 <p>
