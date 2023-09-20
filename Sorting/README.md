@@ -1,2 +1,2 @@
-# Sorting
+# _Sorting_
 Arranging of elements in a right manner.
