@@ -4,7 +4,7 @@
 [![Stars](https://img.shields.io/github/stars/bishtanuj/dataStructure?style=for-the-badge)](./STARS) &emsp;
 ![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
-# Data Structure
+# _Data Structure_
 
 > ***As name suggests, it is a way of organizing and storing data in memory in such manner that we can perform operations on the stored data more efficiently.***
 
