@@ -1,1 +1,1 @@
-# B - Tree
+# Binary Search Tree
