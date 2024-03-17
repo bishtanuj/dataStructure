@@ -44,3 +44,10 @@ _The representaion of a linked list depicts that each node consists of two field
     * **Dynamic memory allocation**: Efficiently managing memory.
     * **Polynomial representaion**: In algebric expressions.
 
+### Creation of the node
+```md
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
