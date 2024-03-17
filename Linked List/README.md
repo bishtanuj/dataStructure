@@ -35,3 +35,12 @@ _The representaion of a linked list depicts that each node consists of two field
 2. **Extra memory overhead**: Due to the need for pointers.
 3. **Sequential traversal**: To find an element, you must traverse the list sequentially.
 
+### Applications of linked list
+* Linked lists are used to implement various data structures, including:
+    * **Stacks**: Using singly linked lists.
+    * **Queues**: Using singly or doubly linked lists.
+    * **Graphs**: Representing adjacency lists.
+    * **Hash tables**: Handling collisions.
+    * **Dynamic memory allocation**: Efficiently managing memory.
+    * **Polynomial representaion**: In algebric expressions.
+
