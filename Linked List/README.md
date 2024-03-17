@@ -19,5 +19,9 @@ _The representaion of a linked list depicts that each node consists of two field
   * A linked list consists of **nodes**, where each node contains two components:
     * **Data**: The actual value or payload associated with the node.
     * **Reference (Link)**: A pointer to the next node in the sequence.
-  * This structure allows for **sequential traversal** through the list. 
+  * This structure allows for **sequential traversal** through the list.
+
+**4. Memory Efficiency:**
+  * Linked list do not waste memory due to fixed sizes.
+  * However, they consume extra memory because they use pointers to keep track of the next successive node.
 
