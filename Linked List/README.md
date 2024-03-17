@@ -30,3 +30,8 @@ _The representaion of a linked list depicts that each node consists of two field
 2. **Insertion and deletion**: These operations are faster compared to arrays.
 3. **No fixed size**: Linked list adapt to changing data requirements.
 
+### Disadvantages of the linked list
+1. **Slower access time**: Accessing elements by index is slower than in arrays.
+2. **Extra memory overhead**: Due to the need for pointers.
+3. **Sequential traversal**: To find an element, you must traverse the list sequentially.
+
