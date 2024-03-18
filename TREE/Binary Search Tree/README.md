@@ -49,7 +49,7 @@ _There are three types of traversal in binary search tree and they are as follow
    * _Preorder Traversal_
    * _Postorder Traversal_
 
-#### Pseudocode for inorder traversal
+#### _Pseudocode for inorder traversal_
 ```md
 class BST:
   def __init__(self):
