@@ -33,4 +33,12 @@ _The representation of a binary search tree depicts that each node consists of t
       * A balanced BST minimizes the height of the tree.
       * Balanced trees ensure efficient search, insertion, and deletion operations.
       * Examples of balanced BSTs include AVL trees and Red - Black trees.
-
+  
+### Creation of node
+```md
+class TreeNode:
+   def __init__(self, data):
+      self.data = data
+      self.left = None
+      self.right = None
+```
