@@ -42,3 +42,9 @@ class TreeNode:
       self.left = None
       self.right = None
 ```
+
+### Traversal in Binary Search Tree
+_There are three types of traversal in binary search tree and they are as follows:_
+   * _Inorder Traversal_
+   * _Preorder Traversal_
+   * _Postorder Traversal_
