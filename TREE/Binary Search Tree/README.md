@@ -72,3 +72,15 @@ class BST:
     self.preorder(root.left)
     self.preorder(root.right)
 ```
+
+#### _Pseudocode for postorder traversal_
+```md
+class BST:
+  def __init__(self):
+    self.root = None
+
+  def postorder(self, root):
+    self.preorder(root.left)
+    self.preorder(root.right)
+    print(root.data, end=" ")
+```
