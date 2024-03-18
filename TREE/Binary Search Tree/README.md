@@ -1,3 +1,3 @@
-# Binary Search Tree
+# _Binary Search Tree_
 
-A binary search tree is a non - linear data structure that stores a collection of data elements dynamically.
+***A binary search tree is a non - linear data structure that stores a collection of data elements dynamically.***
