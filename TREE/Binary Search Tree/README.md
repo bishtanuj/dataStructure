@@ -60,3 +60,15 @@ class BST:
     print(root.data, end=" ")
     self.inorder(root.right)
 ```
+
+#### _Psudocode for prorder traversal_
+```md
+class BST:
+  def __init__(self):
+    self.root = None
+
+  def preorder(self, root):
+    print(root.data, end=" ")
+    self.preorder(root.left)
+    self.preorder(root.right)
+```
