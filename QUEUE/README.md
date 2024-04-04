@@ -36,5 +36,6 @@ Here are some key points about queues:
 2. **Fast Insertion and Deletion**: $O(1)$ time complexity.
 3. **Applications**:
     - **Task Scheduling**: Prioritize tasks based on urgency.
+    - **Resource Allocation**: Manage resources like printers or CPU time.
   
-
+### Disadvantages
