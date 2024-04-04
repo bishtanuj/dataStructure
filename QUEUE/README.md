@@ -20,3 +20,6 @@ Here are some key points about queues:
     - `rear()`: Returns the rear element without removing it (constant time).
     - `isEmpty()`: Indicates whether the queue is empty.
     - `size()`: Returns the total number of elements in the queue.
+  
+### Types of Queues
+1. **Simple Queue**:
