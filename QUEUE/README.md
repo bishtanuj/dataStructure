@@ -24,4 +24,7 @@ Here are some key points about queues:
 ### Types of Queues
 1. **Simple Queue**:
     - Basic version with insertion at the rear and removal from the front.
-
+2. **Circular Queue**:
+    - Efficient array - based implementation.
+    - Circular arrangement where the last element connects to the first.
+    - Better memory utilization.
