@@ -11,7 +11,7 @@ Here are some key points about queues:
     - Overflow: Cannot insert an element when the queue is full.
     - Underflow: Cannot remove an element when the queue is empty.
 
-#### Properties
+### Properties
 1. **Primary Queue Operations**:
     - `enqueue(element)`: Insert an element at the rear end (constant time complexity).
     - `dequeue(element)`: Removes and returns the front element (constant time complexity).
