@@ -39,3 +39,4 @@ Here are some key points about queues:
     - **Resource Allocation**: Manage resources like printers or CPU time.
   
 ### Disadvantages of Queue
+1. **Slower Search**: Finding an element in the queue takes $O(n)$ time.
