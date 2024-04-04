@@ -23,3 +23,5 @@ Here are some key points about queues:
   
 ### Types of Queues
 1. **Simple Queue**:
+    - Basic version with insertion at the rear and removal from the front.
+
