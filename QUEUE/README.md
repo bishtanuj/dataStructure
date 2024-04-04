@@ -15,3 +15,8 @@ Here are some key points about queues:
 1. **Primary Queue Operations**:
     - `enqueue(element)`: Insert an element at the rear end (constant time complexity).
     - `dequeue(element)`: Removes and returns the front element (constant time complexity).
+2. **Auxiliary Queue Operations**:
+    - `front()`: Returns the front element without removing it (constant time).
+    - `rear()`: Returns the rear element without removing it (constant time).
+    - `isEmpty()`: Indicates whether the queue is empty.
+    - `size()`: Returns the total number of elements in the queue.
