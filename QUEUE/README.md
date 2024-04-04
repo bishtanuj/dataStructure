@@ -30,3 +30,5 @@ Here are some key points about queues:
     - Better memory utilization.
 3. **Priority Queue**:
     - Arranges elements based on priority (not strictly FIFO).
+  
+### Advantages of Queue
