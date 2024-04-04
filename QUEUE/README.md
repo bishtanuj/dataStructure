@@ -34,3 +34,7 @@ Here are some key points about queues:
 ### Advantages of Queue
 1. **Ordered Processing**: Serves data in a specific order (FIFO).
 2. **Fast Insertion and Deletion**: $O(1)$ time complexity.
+3. **Applications**:
+    - **Task Scheduling**: Prioritize tasks based on urgency.
+  
+
