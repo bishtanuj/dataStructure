@@ -8,8 +8,8 @@ Here are some key points about queues:
     - **Enqueue**: Insert an element at the rear end.
     - **Dequeue**: Remove an element from the front end.
 3. **Overflow and Underflow**:
-    - Overflow: Cannot insert an element when the queue is full.
-    - Underflow: Cannot remove an element when the queue is empty.
+    - **Overflow**: Cannot insert an element when the queue is full.
+    - **Underflow**: Cannot remove an element when the queue is empty.
 
 ### Properties
 1. **Primary Queue Operations**:
