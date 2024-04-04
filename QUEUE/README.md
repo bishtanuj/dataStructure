@@ -28,3 +28,5 @@ Here are some key points about queues:
     - Efficient array - based implementation.
     - Circular arrangement where the last element connects to the first.
     - Better memory utilization.
+3. **Priority Queue**:
+
