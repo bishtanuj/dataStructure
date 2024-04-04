@@ -38,4 +38,4 @@ Here are some key points about queues:
     - **Task Scheduling**: Prioritize tasks based on urgency.
     - **Resource Allocation**: Manage resources like printers or CPU time.
   
-### Disadvantages
+### Disadvantages of Queue
