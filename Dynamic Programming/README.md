@@ -29,4 +29,6 @@ Here are some key aspects of dynamic programming:
     - Determining the shortest path between two nodes in a graph.
 4. **Knapsack Problem**:
    - Maximizing the value of items that can fit in a knapsack with a given capacity.
-
+  
+### When to Use Dynamic Programming:
+- DP is suitable for problems with the following characteristics:
