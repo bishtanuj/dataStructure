@@ -13,3 +13,5 @@ Here are some key aspects of dynamic programming:
     - We use the stored solutions to construct the solution to the main problem.
     - By combining the results of subproblems, we arrive at the final answer.
 4. **Avoiding Redundancy**:
+    - DP ensures that each subproblem is solved only once.
+    - This reduction in computation time significantly improves efficiency.
