@@ -17,3 +17,9 @@ def compute_fibonacci_number(num: int) -> int:
 if __name__ == '__main__':
     num = int(input("Enter the number: "))
     print("Result:", compute_fibonacci_number(num))
+
+"""
+OUTPUT:
+Enter the number: 5
+Result: 3
+"""
