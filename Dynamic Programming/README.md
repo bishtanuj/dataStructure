@@ -17,3 +17,5 @@ Here are some key aspects of dynamic programming:
     - This reduction in computation time significantly improves efficiency.
   
 ### Examples of Dynamic Programming:
+1. **Fibonacci Sequence**:
+    - **Brute Force Approach**: To find the nth Fibonacci number, we would add the (n-1)th and (n-2)th Fibonacci numbers. However, this approach becomes inefficient for large values of n.
