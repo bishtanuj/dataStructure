@@ -6,3 +6,7 @@ Here are some key aspects of dynamic programming:
 1. **Identifying Subproblems**:
     - DP starts by dividing the main problem into smaller, independent subproblems.
     - These subproblems are often related to each other, and solving them contibutes to solving the overall problem.
+2. **Storing Solutions**:
+    - As we solve each subproblem, we store the solution in a table or an array.
+    - This storage allows us to avoid recalculating the same subproblem in the future.
+
