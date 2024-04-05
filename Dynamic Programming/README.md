@@ -32,3 +32,5 @@ Here are some key aspects of dynamic programming:
   
 ### When to Use Dynamic Programming:
 - DP is suitable for problems with the following characteristics:
+  - **Overlapping subproblems**: The problem can be broken down into smaller overlapping subproblems.
+  - **Optimal substrucutre**: The optimal solution to the main problem can be constructed from optimal solutions to its subproblems.
