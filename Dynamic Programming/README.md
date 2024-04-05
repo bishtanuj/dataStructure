@@ -26,3 +26,7 @@ Here are some key aspects of dynamic programming:
 2. **Longest Common Subsequence**:
    - Finding the longest subsequence common to two strings.
 3. **Shortest Path in Graph**:
+    - Determining the shortest path between two nodes in a graph.
+4. **Knapsack Problem**:
+   - Maximizing the value of items that can fit in a knapsack with a given capacity.
+
