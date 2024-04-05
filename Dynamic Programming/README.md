@@ -15,3 +15,5 @@ Here are some key aspects of dynamic programming:
 4. **Avoiding Redundancy**:
     - DP ensures that each subproblem is solved only once.
     - This reduction in computation time significantly improves efficiency.
+  
+### Examples of Dynamic Programming:
