@@ -22,4 +22,7 @@ Here are some key aspects of dynamic programming:
     - **Dynamic Programming Appraoch**:
         - We create a table to store the values of F(n) as they are calculated.
         - For F(n), we look up F(n-1) and F(n-2) in the table and add them.
-        - DP efficiently computes the Fibonacci sequence without redundant calculations. 
+        - DP efficiently computes the Fibonacci sequence without redundant calculations.
+2. **Longest Common Subsequence**:
+   - Finding the longest subsequence common to two strings.
+3. **Shortest Path in Graph**:
