@@ -12,3 +12,4 @@ Here are some key aspects of dynamic programming:
 3. **Building Up Solutions**:
     - We use the stored solutions to construct the solution to the main problem.
     - By combining the results of subproblems, we arrive at the final answer.
+4. **Avoiding Redundancy**:
