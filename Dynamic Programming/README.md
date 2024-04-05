@@ -9,4 +9,6 @@ Here are some key aspects of dynamic programming:
 2. **Storing Solutions**:
     - As we solve each subproblem, we store the solution in a table or an array.
     - This storage allows us to avoid recalculating the same subproblem in the future.
-
+3. **Building Up Solutions**:
+    - We use the stored solutions to construct the solution to the main problem.
+    - By combining the results of subproblems, we arrive at the final answer.
