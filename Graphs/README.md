@@ -62,3 +62,15 @@ Here are some key points about graphs:
             - If a graph has **n vertices**, the adjacency matrix is an **n x n** matrix.
             - Each entry in the matrix indicates whether there is an edge between two vertices.
             - If there is an edge from vertex **i** to vertex **j**, the corresponding entry is **1**; otherwise, it's **0**.
+        2. **Example**:
+            - Consider the following unidirected graph:
+            - We can represent this graph using adjacency matrix as follows:
+              ```md
+              0 1 1 0 0 0
+              1 0 1 1 0 0
+              1 1 0 0 1 0
+              0 1 0 0 1 0
+              0 0 1 1 0 1
+              0 0 0 0 1 0
+              ```
+              Here, each row and column correspond to a vertex, and the value at position **(i, j)** indicates whether there is an edge from vertex **i** to vertex **j**.
