@@ -8,7 +8,8 @@ A subsequence of a string is a new string generated from the original string wit
 A common subsequence of two strings is a subsequence that is common to both strings.
 """
 
-def lcs(text1: str, text2: str):
+# function to compute longest common subsequence
+def lcs(text1: str, text2: str) -> int:
     m, n = len(text1), len(text2)
     dp = [[0] * (n + 1) for _ in range(m + 1)]
 
@@ -19,3 +20,10 @@ def lcs(text1: str, text2: str):
             else:
                 dp[i][j] = max(dp[i][j - 1], dp[i - 1][j])
     return dp[m][n]
+
+
+if __name__ == '__main__':
+    string1 = input("Enter 1st string: ")
+    string2 = input("Enter 2nd string: ")
+    print("Longest Common Subsequence:", lcs(string1, string2))
+
