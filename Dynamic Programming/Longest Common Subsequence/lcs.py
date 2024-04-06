@@ -27,3 +27,9 @@ if __name__ == '__main__':
     string2 = input("Enter 2nd string: ")
     print("Longest Common Subsequence:", lcs(string1, string2))
 
+"""
+OUTPUT:
+Enter 1st string: abcde
+Enter 2nd string: ace
+Longest Common Subsequence: 3
+"""
