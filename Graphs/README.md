@@ -36,3 +36,9 @@ Here are some key points about graphs:
             - An adjacency list represents a graph as an **array of linked lists**.
             - Each index in the array corresponds to a **vertex** (or node) in the graph.
             - The linked list at each index contains the **adjacent vertices** connected to that vertex.
+        2. **Example**:
+            - Consider the following unidirected graph:
+            - We can represent this graph using an adjacency list as follows:
+              ```md
+              0 -> 1, 2
+              ```
