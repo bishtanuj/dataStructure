@@ -29,3 +29,5 @@ Here are some key points about graphs:
     - Neural networks model brain connections and learning processes.
   
 ### Representation of Graph
+1. **Adjacency List Representation**
+    An **adjacency list** 
