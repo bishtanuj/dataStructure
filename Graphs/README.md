@@ -56,5 +56,5 @@ Here are some key points about graphs:
             - **Not Ideal for Dense Graphs**: For dense graphs, adjacency matrices may be more efficient.
 2. **Adjacency Matrix Representation**:
     - An **adjacency matrix** is a way of representing a graph as a matrix of boolean (0's and 1's). It provides a compact and efficient representation for both directed and unidirected graphs.
-    - Here are the key points:
+    - Here are some key points:
         1. **Definition**:
