@@ -27,3 +27,5 @@ Here are some key points about graphs:
     - In sport data science, graphs analyze player interactions (passes, shots, tackles) to understand team dynamics.
     - Social media platforms use graph to recommend friends and connections.
     - Neural networks model brain connections and learning processes.
+  
+### Representation of Graph
