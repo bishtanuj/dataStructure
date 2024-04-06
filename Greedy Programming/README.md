@@ -9,3 +9,8 @@ Here are the key points about the greedy algorithms:
     - **Identify the greedy choice**: Determine the locally optimal choice at each step based on the current state.
     - **Make the greedy choice**: Select the greedy choice and update the current state.
     - **Repeat**: Continue making greedy choices until a solution is reached.
+3. **Examples of Greedy Algorithms**:
+    - **Fractional Knapsack**: Optimizes the value of items that can be fractionally included in a knapsack with limited capacity.
+    - **Dijkstra's algorithm**: Finds the shortest path form a source vertex to all other vertices in a weighted graph.
+    - **Kruskal's algorithm**: Finds the minimum spanning tree of a weighted graph.
+    - **Huffman coding**: Compresses data by assigning shorter codes to more frequent symbols. 
