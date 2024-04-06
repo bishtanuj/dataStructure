@@ -47,3 +47,4 @@ Here are some key points about graphs:
               4 -> 2, 3, 5
               5 -> 4
               ```
+              Here, each vertex (0 to 5) has a linked list containing its adjacent vertices.
