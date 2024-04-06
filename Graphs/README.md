@@ -48,3 +48,5 @@ Here are some key points about graphs:
               5 -> 4
               ```
               Here, each vertex (0 to 5) has a linked list containing its adjacent vertices.
+        3. **Pros of Adjacency List**:
+            - **Efficinet Storage**: Only edges need to be stored, saving space for sparse graphs.
