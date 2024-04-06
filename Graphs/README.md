@@ -60,3 +60,5 @@ Here are some key points about graphs:
         1. **Definition**:
             - An adjacency matrix represents a graph using **2D matrix**.
             - If a graph has **n vertices**, the adjacency matrix is an **n x n** matrix.
+            - Each entry in the matrix indicates whether there is an edge between two vertices.
+            - If there is an edge from vertex **i** to vertex **j**, the corresponding entry is **1**; otherwise, it's **0**.
