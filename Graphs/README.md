@@ -32,5 +32,5 @@ Here are some key points about graphs:
 1. **Adjacency List Representation**
     - An **adjacency list** is a common way to represent graphs in computer science. It's particularly useful for sparse graphs (where the number of edges is much smaller than the maximum possible edges).
     - Here are some key points:
-        1. **Definition**:
+        1) **Definition**:
             - An adjacency list represents a graph as an **array of linked lists**.
