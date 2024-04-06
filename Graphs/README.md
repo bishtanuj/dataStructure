@@ -79,3 +79,6 @@ Here are some key points about graphs:
             - **Suitable for Dense Graphs**: When the graph has many edges, the adjacency matrix is memory - efficient.
             - **Enables Matrix Operations**: Advanced matrix operations can provide insights into graph properties.
         4. **Cons of Adjacency Matrix**:
+            - **Memory Usage**: Requires **V x V** space, which can be inefficient for sparse graphs.
+            - **Inefficient for Sparse Graphs**: For graphs with few edges, adjacency lists are better.
+            - **InEdge and OutEdge**: Finding in-edges and out-edges is expensive.
