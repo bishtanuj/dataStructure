@@ -52,3 +52,5 @@ Here are some key points about graphs:
             - **Efficient Storage**: Only edges need to be stored, saving space for sparse graphs.
             - **Easy to Find Adjacency Vertices**: Quickly find all vertices adjacent to a given vertex.
         4. **Cons of Adjacency List**:
+            - **Slower for Finding All Edges**: To find all edges, we must explore all connected nodes.
+            - **Not Ideal for Dense Graphs**: For dense graphs, adjacency matrices may be more efficient.
