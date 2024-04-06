@@ -14,3 +14,6 @@ Here are some key points about graphs:
     - **Traversal**: Visiting all nodes in the graph.
 3. **Applications of Graphs**:
     - **Social Networks**: Graphs are commonly used to represent social networks, such as connections between friends on social media platforms.
+    - **Computer Networks**: Graphs model the topology of computer networks, including connection between routers and switches.
+    - **Transportation Networks**: Representing connections between places (roads, airports) in transportaion systems.
+    - **Neural Networks**: In neural networks, vertices represent neurons, and edges represent synapses.
