@@ -74,3 +74,8 @@ Here are some key points about graphs:
               0 0 0 0 1 0
               ```
               Here, each row and column correspond to a vertex, and the value at position **(i, j)** indicates whether there is an edge from vertex **i** to vertex **j**.
+        3. **Pros of Adjacency Matrix**:
+            - **Efficient Basic Operations**: Adding an edge, removing an edge, and checking edge existence are **constant time** operations.
+            - **Suitable for Dense Graphs**: When the graph has many edges, the adjacency matrix is memory - efficient.
+            - **Enables Matrix Operations**: Advanced matrix operations can provide insights into graph properties.
+        4. **Cons of Adjacency Matrix**:
