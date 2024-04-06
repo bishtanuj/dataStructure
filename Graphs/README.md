@@ -12,3 +12,5 @@ Here are some key points about graphs:
     - **Deletion**: Removing vertices or edges from the graph.
     - **Searching**: Finding a specific entity (vertex) in the graph.
     - **Traversal**: Visiting all nodes in the graph.
+3. **Applications of Graphs**:
+    - **Social Networks**: Graphs are commonly used to represent social networks, such as connections between friends on social media platforms.
