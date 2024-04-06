@@ -13,4 +13,9 @@ Here are the key points about the greedy algorithms:
     - **Fractional Knapsack**: Optimizes the value of items that can be fractionally included in a knapsack with limited capacity.
     - **Dijkstra's algorithm**: Finds the shortest path form a source vertex to all other vertices in a weighted graph.
     - **Kruskal's algorithm**: Finds the minimum spanning tree of a weighted graph.
-    - **Huffman coding**: Compresses data by assigning shorter codes to more frequent symbols. 
+    - **Huffman coding**: Compresses data by assigning shorter codes to more frequent symbols.
+4. **Applications of Greedy Algorithm**:
+    - **Assigning tasks to resources**: Minimize waiting time or maximize efficiency.
+    - **Knapsack problem**: Select the most valuable items to fit into a knapsack with limited capacity.
+    - **Image segmentation**: Divide an image into regions with similar characteristics.
+    - **Data compression**: Reduce the size of data by removing redundant information.
