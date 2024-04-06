@@ -23,3 +23,7 @@ Here are some key points about graphs:
     - **Shortest Path Algorithms**: Find the shortest path between two vertices (e.g., Dijkstra's algorithm).
     - **Minimum Spanning Tree Algorithms**: Find the minimum spanning tree (e.g., Prim's or Kruskal's algorithm).
     - **Topological Sorting**: Orders vertices based on dependencies (used in task scheduling).
+5. **Real - Life Examples**:
+    - In sport data science, graphs analyze player interactions (passes, shots, tackles) to understand team dynamics.
+    - Social media platforms use graph to recommend friends and connections.
+    - Neural networks model brain connections and learning processes.
