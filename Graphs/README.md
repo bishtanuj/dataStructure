@@ -17,3 +17,9 @@ Here are some key points about graphs:
     - **Computer Networks**: Graphs model the topology of computer networks, including connection between routers and switches.
     - **Transportation Networks**: Representing connections between places (roads, airports) in transportaion systems.
     - **Neural Networks**: In neural networks, vertices represent neurons, and edges represent synapses.
+4. **Graph Algorithms**:
+    - **Breadth-First Search (BFS)**: Traverses the graph level by level, useful for finding the shortest path.
+    - **Depth-Fisrt Search (DFS)**: Explores as far as possible along each branch before backtracking, useful for detecting cycles.
+    - **Shortest Path Algorithms**: Find the shortest path between two vertices (e.g., Dijkstra's algorithm).
+    - **Minimum Spanning Tree Algorithms**: Find the minimum spanning tree (e.g., Prim's or Kruskal's algorithm).
+    - **Topological Sorting**: Orders vertices based on dependencies (used in task scheduling).
