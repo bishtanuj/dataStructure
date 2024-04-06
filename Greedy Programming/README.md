@@ -19,3 +19,7 @@ Here are the key points about the greedy algorithms:
     - **Knapsack problem**: Select the most valuable items to fit into a knapsack with limited capacity.
     - **Image segmentation**: Divide an image into regions with similar characteristics.
     - **Data compression**: Reduce the size of data by removing redundant information.
+5. **Disadvantages/Limitations of Using a Greedy Algorithm**:
+    - Greedy algorithms may not always find the **best possible solution**.
+    - The **order** in which elements are considered can significantly impact the outcome.
+    - Greedy algorithms focus on **local optimizations** and may miss better solutions that require considering a broader context.
