@@ -7,3 +7,8 @@ Here are some key points about graphs:
     - **Vertices**: These are the fundamental units of the graph. Each vertex represents an entity or a point in the graph.
     - **Edges**: Edges connect two vertices and represent the relationships between them. Edges can be directed (with the specific direction) or unidirected (bidirectional).
     - A graph is formally denoted as **G(V, E)**, where **V** is the set of vertices and **E** is the set of edges.
+2. **Basic Operations on Graphs**:
+    - **Insertion**: Adding vertices or edges to the graph.
+    - **Deletion**: Removing vertices or edges from the graph.
+    - **Searching**: Finding a specific entity (vertex) in the graph.
+    - **Traversal**: Visiting all nodes in the graph.
