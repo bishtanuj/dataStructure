@@ -58,3 +58,5 @@ Here are some key points about graphs:
     - An **adjacency matrix** is a way of representing a graph as a matrix of boolean (0's and 1's). It provides a compact and efficient representation for both directed and unidirected graphs.
     - Here are some key points:
         1. **Definition**:
+            - An adjacency matrix represents a graph using **2D matrix**.
+            - If a graph has **n vertices**, the adjacency matrix is an **n x n** matrix.
