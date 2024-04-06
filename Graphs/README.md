@@ -49,4 +49,6 @@ Here are some key points about graphs:
               ```
               Here, each vertex (0 to 5) has a linked list containing its adjacent vertices.
         3. **Pros of Adjacency List**:
-            - **Efficinet Storage**: Only edges need to be stored, saving space for sparse graphs.
+            - **Efficient Storage**: Only edges need to be stored, saving space for sparse graphs.
+            - **Easy to Find Adjacency Vertices**: Quickly find all vertices adjacent to a given vertex.
+        4. **Cons of Adjacency List**:
