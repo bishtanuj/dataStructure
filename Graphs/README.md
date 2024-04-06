@@ -4,3 +4,6 @@ _A **graph** is a non- linear data structure that consists of vertices (also kno
 
 Here are some key points about graphs:
 1. **Components of a Graph**:
+    - **Vertices**: These are the fundamental units of the graph. Each vertex represents an entity or a point in the graph.
+    - **Edges**: Edges connect two vertices and represent the relationships between them. Edges can be directed (with the specific direction) or unidirected (bidirectional).
+    - A graph is formally denoted as **G(V, E)**, where **V** is the set of vertices and **E** is the set of edges.
