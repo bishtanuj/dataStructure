@@ -19,3 +19,4 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 - **Expression Evaluation and Parsing**: Stacks help evaluate expressions (like infix to postfix conversion).
 - **Depth - First Search (DFS)**: Used in graph traversal algorithms.
 - **Undo/Redo Operations**: Think of undoing actions in software applications.
+- **Browser History**: Stacks can track your browsing history.
