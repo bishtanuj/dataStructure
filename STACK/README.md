@@ -9,3 +9,5 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 
 ### Basic Operations of a Stack:
 1. **Push**: Adds an element to the top of the stack.
+2. **Pop**: Removes the top element from the stack.
+3. **Peek**: Returns the top element without removing it.
