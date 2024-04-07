@@ -13,3 +13,9 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 3. **Peek**: Returns the top element without removing it.
 4. **IsEmpty**: Checks if the stack is empty.
 5. **IsFull**: Chaecks if the stack is full (in case of fixed - size arrays).
+
+### Applications of Stacks:
+- **Recursion**: Stacks can play a crucial role in recursive function calls.
+- **Expression Evaluation and Parsing**: Stacks help evaluate expressions (like infix to postfix conversion).
+- **Depth - First Search (DFS)**: Used in graph traversal algorithms.
+- **Undo/Redo Operations**: Think of undoing actions in software applications.
