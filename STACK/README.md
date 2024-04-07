@@ -6,3 +6,6 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 - A **stack** is a **linear data strucutre** that follows the **Last - In - First - Out (LIFO)** principle.
 - Think of it as a stack of plates: the last plate added is the first one to be removed.
 - The only element you can remove from a stack is the one at the **top**.
+
+### Basic Operations of a Stack:
+1. **Push**: Adds an element to the top of the stack.
