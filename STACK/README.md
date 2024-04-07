@@ -20,3 +20,7 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 - **Depth - First Search (DFS)**: Used in graph traversal algorithms.
 - **Undo/Redo Operations**: Think of undoing actions in software applications.
 - **Browser History**: Stacks can track your browsing history.
+
+### Implementation of Stacks:
+- You can implement a stack using various data structures:
+    - **Arrays**
