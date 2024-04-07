@@ -23,4 +23,6 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 
 ### Implementation of Stacks:
 - You can implement a stack using various data structures:
-    - **Arrays**
+    - **Arrays**: Fixed - size arrays work well stacks.
+    - **Linked Lists**: Dynamic implementation with no fixed size.
+    - **Other Languages**: Stacks are available in C++, Java, Python, and more.
