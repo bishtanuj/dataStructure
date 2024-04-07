@@ -11,3 +11,5 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
 1. **Push**: Adds an element to the top of the stack.
 2. **Pop**: Removes the top element from the stack.
 3. **Peek**: Returns the top element without removing it.
+4. **IsEmpty**: Checks if the stack is empty.
+5. **IsFull**: Chaecks if the stack is full (in case of fixed - size arrays).
