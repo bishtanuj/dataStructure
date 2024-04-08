@@ -15,5 +15,3 @@ Common operations on heap are described below:
 - **Heapify**:
     - Converts an arbitrary binary tree into a heap.
 
-### Heapify
-Heapify is the process of creating a heap data structure from a binary tree. It is used to create a min-heap or a max-heap.
