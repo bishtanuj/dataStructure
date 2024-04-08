@@ -19,4 +19,6 @@ Common operations on heap are described below:
 - **Priority Queues**:
     - Heaps are commonly used to implement priority queues, where elements are retrieved based on their priority (maximum or minimum value).
 - **Sorting**:
-    - 
+    - **Heapsort** is a soring algorithm that uses a heap to sort an array in ascending or descending order.
+- **Graph Algorithms**:
+    -
