@@ -24,4 +24,5 @@ Common operations on heap are described below:
     - Heaps are used in graph algorithms like **Dijkstra's algorithm** and **Prim's algorithm** for finding shortest paths and minimum spanning trees.
  
 ### Visualization of a Heap
-
+- Imagine a binary tree where successive nodes are filled from left to right.
+- The parent - node key compares to that of its offspring, creating a proper arrangement.
