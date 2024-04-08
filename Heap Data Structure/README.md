@@ -1,4 +1,4 @@
-# Heap Data Structure
+# _Heap Data Structure_
 
 _A **heap** is a specialized tree - based data strucutre that plays a crucial role in various algorithms and applications._
 
