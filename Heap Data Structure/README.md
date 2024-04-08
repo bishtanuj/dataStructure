@@ -11,6 +11,9 @@ Common operations on heap are described below:
 - **Insert**:
     - Adds a new element to the heap while maintaining the heap property.
 - **Extract Max/Min**:
+    - Removes the maximum or minimum element from the heap and return it.
+- **Heapify**:
+    - Converts an arbitrary binary tree into a heap.
 
 ### Heapify
 Heapify is the process of creating a heap data structure from a binary tree. It is used to create a min-heap or a max-heap.
