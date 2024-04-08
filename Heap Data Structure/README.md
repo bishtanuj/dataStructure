@@ -17,4 +17,6 @@ Common operations on heap are described below:
 
 ### Applications of Heap Data Structure
 - **Priority Queues**:
-  
+    - Heaps are commonly used to implement priority queues, where elements are retrieved based on their priority (maximum or minimum value).
+- **Sorting**:
+    -
