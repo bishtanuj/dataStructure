@@ -15,3 +15,6 @@ Common operations on heap are described below:
 - **Heapify**:
     - Converts an arbitrary binary tree into a heap.
 
+### Applications of Heap Data Structure
+- **Priority Queues**:
+  
