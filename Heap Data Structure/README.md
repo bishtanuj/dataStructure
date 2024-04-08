@@ -22,3 +22,6 @@ Common operations on heap are described below:
     - **Heapsort** is a soring algorithm that uses a heap to sort an array in ascending or descending order.
 - **Graph Algorithms**:
     - Heaps are used in graph algorithms like **Dijkstra's algorithm** and **Prim's algorithm** for finding shortest paths and minimum spanning trees.
+ 
+### Visualization of a Heap
+
