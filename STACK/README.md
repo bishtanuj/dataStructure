@@ -27,4 +27,4 @@ _Let's dive into the world of **stacks**, a fundamental data structure. Imaginge
     - **Linked Lists**: Dynamic implementation with no fixed size.
     - **Other Languages**: Stacks are available in C++, Java, Python, and more.
  
-Remember, stacks are like those neatly piled plates - orderly and efficient! :smile:
+> Remember, stacks are like those neatly piled plates - orderly and efficient! :smile:
